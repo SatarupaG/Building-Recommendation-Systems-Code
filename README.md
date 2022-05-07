@@ -1,13 +1,11 @@
-# Machine-Learning-Models-for-Data-Code
-This repository hosts the python codes (jupyter notebooks) for building machine learning models that can:<br>
-(1) generate predictions <br>
-(2) generate recommendations and <br>
-(3) automate routine tasks
+# Building-Recommendation-Systems-Code
+This repository hosts the python codes (jupyter notebooks) for building various types of recommendation systems and  evaluate which recommender performed the best for a specific use-case. 
 
 ## Learning Outcomes 
-1. Implemented classification algorithms by using various sklearn libraries such as Logistic Regression, Logictic regression, Decision Tree Classifier, etc.
-2. Implemented clustering models such as K-means and hierarchal models. 
-3. Implemented dimension reduction methods such as PCA. 
-4. Implemented Association rules.
-5. Implemented Ensembles methods.
-6. Buit neural networks.
+1. Working with recommendation systems
+2. Evaluating similarity based on correlation
+3. Building a popularity-based recommender
+4. Classification-based recommendations
+5. Making a collaborative filtering system
+6. Content-based recommender systems
+7. Evaluating recommenders
